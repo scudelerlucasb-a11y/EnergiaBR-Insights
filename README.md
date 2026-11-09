@@ -29,15 +29,6 @@ Python, pandas, Plotly e Google Colab.
 3. **Análise:** evolução anual, ranking de municípios, crescimento, participação por classe, variação percentual e consumo por consumidor.
 4. **Visualização:** gráficos de linha e de barras com Plotly.
 
-## Resultados
-
-![Evolução do consumo](grafico_evolucao.png)
-![Municípios que mais consomem](grafico_ranking.png)
-
-- [Conclusão 1: ex.: o consumo [subiu/caiu] de X em 2010 para Y em 2025]
-- [Conclusão 2: ex.: o município com maior consumo foi X]
-- [Conclusão 3: ex.: a classe com maior participação foi X, com Y%]
-
 ## Como executar
 
 1. Abra o notebook `analise_energia_alagoas.ipynb` no Google Colab.
